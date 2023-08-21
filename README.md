@@ -12,4 +12,4 @@
     <li><a href ="https://matplotlib.org/">matplotlib</a></li></h3>
 
 <h2>Model used : </h2><h3>Random Forest Classifier</h3>
-<p>Support Vector Machine or SVM is one of the most popular Supervised Learning algorithms, which is used for Classification as well as Regression problems. However, primarily, it is used for Classification problems in Machine Learning.</p>
+<p>Random Forest Classifier is a popular machine learning algorithm that falls under the category of ensemble methods. Ensemble methods combine multiple individual models to create a more robust and accurate final model. Random Forest, in particular, is an ensemble of decision trees. It works by training multiple decision trees on different subsets of the training data and then combining their predictions to make a final prediction.</p>
