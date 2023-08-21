@@ -1,5 +1,5 @@
 <h1>Predictive Analytics for Customer Churn in Telecom Industry</h1><br>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectpro.io%2Farticle%2Fchurn-models%2F709&psig=AOvVaw1yuSo7XENDkmqwCEGMzzdJ&ust=1692736892340000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjl-7rO7oADFQAAAAAdAAAAABAE">
+<img src="https://github.com/Avinash300802/Major_project_SkillVertex_CustomerChurn_Prediction/blob/main/churn.png">
 
 <h2>This is a ML project done using Python and its modules:</h2><h3>
   
