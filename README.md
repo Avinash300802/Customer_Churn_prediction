@@ -1,6 +1,6 @@
 <h1>Predictive Analytics for Customer Churn in Telecom Industry</h1><br>
 <li>Developed a classifier model to detect customer churn based on their call usage and data usage patterns over a period of time</li>
-<li>Achieved 92.54% accuracy using a Random forest classifier, evaluated with the F1 score </li>
+<li>Achieved 92.54% accuracy using a Random forest classifier, evaluated with the F1 score </li><br>
 <img src="https://github.com/Avinash300802/Major_project_SkillVertex_CustomerChurn_Prediction/blob/main/churn.png" width="400" height="300">
 
 
